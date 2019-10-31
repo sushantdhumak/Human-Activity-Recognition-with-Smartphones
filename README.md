@@ -24,6 +24,27 @@ Follow this link to see a video of the 6 activities recorded in the experiment w
 
 https://www.youtube.com/watch?v=XOEN9W05_4A&feature=youtu.be
 
+### Results of Model used in the Notebook
+         
+Logistic Regression:   
+Accuracy - 96.13% ,   Error - 3.868%
+
+Linear SVC:   
+Accuracy - 96.30% ,    Error - 3.699% 
+
+RBF SVM classifier:  
+Accuracy - 96.57% ,   Error - 3.427% 
+
+Decision Tree:  
+Accuracy - 95.15% ,   Error - 4.852% 
+
+Random Forest:  
+Accuracy - 96.20% ,    Error - 3.8% 
+
+GradientBoosting:  
+Accuracy - 95.42% ,   Error - 4.581% 
+
+
 ### Relevant papers
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
